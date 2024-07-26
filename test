@@ -1,6 +1,7 @@
 [
     {
         "question": "Est-ce vrai que les éoliennes produisent peu ?",
+        "options": ["Oui", "Non", "Autres"],
         "reponse": "Autres",
         "informations_supplementaires": {
             "en_bref": "C’est relatif. Une seule éolienne de 2 MW (représentative du parc éolien français en service) produit environ 4 000 MWh par an c’est l’équivalent de la consommation d’électricité de plus de 800 foyers !",
@@ -9,6 +10,7 @@
     },
     {
         "question": "Est-ce que la production éolienne permet d’alimenter des foyers alors qu’il s’agit d’une production intermittente ?",
+        "options": ["Oui", "Non", "Autres"],
         "reponse": "Autres",
         "informations_supplementaires": {
             "en_bref": "Ce n’est pas si simple !! Il est exact qu’une éolienne ne produit pas en permanence et ne permet pas à elle seule de répondre aux besoins des consommateurs.",
@@ -17,6 +19,7 @@
     },
     {
         "question": "Est-ce utile de développer l’éolien en France alors que nous avons du nucléaire ?",
+        "options": ["Oui", "Non", "Autres"],
         "reponse": "Oui",
         "informations_supplementaires": {
             "en_bref": "Oui. La production électrique française repose aujourd’hui à plus de 70 % sur le nucléaire et la France a fait le choix de diversifier ses sources d’approvisionnement.",
@@ -25,6 +28,7 @@
     },
     {
         "question": "Est-ce que l’éolien implique un recours accru aux énergies fossiles pilotables ?",
+        "options": ["Oui", "Non", "Autres"],
         "reponse": "Non",
         "informations_supplementaires": {
             "en_bref": "Non. D’ici à 2035 l’intégration de nouvelles installations éoliennes et photovoltaïques ne nécessitera pas un recours accru au charbon ou au gaz au contraire.",
@@ -33,6 +37,7 @@
     },
     {
         "question": "Est-ce difficile d’intégrer la production éolienne à cause de son imprévisibilité ?",
+        "options": ["Oui", "Non", "Autres"],
         "reponse": "Non",
         "informations_supplementaires": {
             "en_bref": "Non il est possible de prévoir précisément la production éolienne à quelques jours.",
@@ -41,6 +46,7 @@
     },
     {
         "question": "Est-ce que l’éolien nécessite une subvention publique payée par la collectivité ?",
+        "options": ["Oui", "Non", "Autres"],
         "reponse": "Oui",
         "informations_supplementaires": {
             "en_bref": "Oui mais les besoins se réduisent.",
@@ -49,6 +55,7 @@
     },
     {
         "question": "Est-ce vrai que l’éolien est extrêmement rentable pour les exploitants alors que c’est de l’argent public ?",
+        "options": ["Oui", "Non", "Autres"],
         "reponse": "Non",
         "informations_supplementaires": {
             "en_bref": "Non. Les dispositifs de soutien sont dimensionnés de manière à garantir une rentabilité suffisante et raisonnable.",
@@ -57,6 +64,7 @@
     },
     {
         "question": "Est-ce que la filière éolienne crée des emplois en France et génère de l’activité économique ?",
+        "options": ["Oui", "Non", "Autres"],
         "reponse": "Oui",
         "informations_supplementaires": {
             "en_bref": "La filière éolienne (terrestre et en mer) représente 20 200 emplois directs et indirects et plus de 600 entreprises de toute taille sont actives sur le marché français et à l’export.",
@@ -65,6 +73,7 @@
     },
     {
         "question": "Est-ce vrai que le développement de l’éolien est anarchique à la main des développeurs promoteurs et que la construction d’éoliennes n’est pas suffisamment réglementée ?",
+        "options": ["Oui", "Non", "Autres"],
         "reponse": "Non",
         "informations_supplementaires": {
             "en_bref": "C’est faux. Les projets éoliens peuvent être à l’initiative d’entreprises privées mais également de collectivités de sociétés d’économie mixte ou de collectifs citoyens.",
@@ -73,6 +82,7 @@
     },
     {
         "question": "Est-ce vrai que fabriquer une éolienne nécessite l'utilisation de terres rares difficilement recyclables et dont les stocks sont limités ?",
+        "options": ["Oui", "Non", "Autres"],
         "reponse": "Non",
         "informations_supplementaires": {
             "en_bref": "Non. En France les éoliennes terrestres qui utilisent des terres rares ne sont plus développées en France depuis de nombreuses années.",
@@ -81,6 +91,7 @@
     },
     {
         "question": "Est-ce qu'il y a trop d'éoliennes en France ?",
+        "options": ["Oui", "Non", "Autres"],
         "reponse": "Autres",
         "informations_supplementaires": {
             "en_bref": "C’est relatif quand on compare la France à ses voisins.",
@@ -89,6 +100,7 @@
     },
     {
         "question": "Est-ce vrai que fabriquer une éolienne demande plus d’énergie qu’elle n’en produit ?",
+        "options": ["Oui", "Non", "Autres"],
         "reponse": "Non",
         "informations_supplementaires": {
             "en_bref": "C’est faux. Une éolienne produit plus de 19 fois l’énergie que ce qu’elle consommera durant son cycle de vie.",
@@ -97,6 +109,7 @@
     },
     {
         "question": "Est-ce que les éoliennes sont recyclables ?",
+        "options": ["Oui", "Non", "Autres"],
         "reponse": "Oui",
         "informations_supplementaires": {
             "en_bref": "Oui 93 % du poids d’une éolienne terrestre sont totalement recyclables (acier béton cuivre et aluminium).",
@@ -105,6 +118,7 @@
     },
     {
         "question": "Est-ce que le développement de l’éolien revient à planter des tours Eiffel partout en France ?",
+        "options": ["Oui", "Non", "Autres"],
         "reponse": "Autres",
         "informations_supplementaires": {
             "en_bref": "C’est exagéré.",
@@ -113,6 +127,7 @@
     },
     {
         "question": "Est-ce vrai que les éoliennes sont implantées de manière anarchique ?",
+        "options": ["Oui", "Non", "Autres"],
         "reponse": "Non",
         "informations_supplementaires": {
             "en_bref": "C’est faux.",
@@ -121,6 +136,7 @@
     },
     {
         "question": "Est-ce vrai que la moitié des éoliennes ne sont pas reliées au réseau ?",
+        "options": ["Oui", "Non", "Autres"],
         "reponse": "Non",
         "informations_supplementaires": {
             "en_bref": "Bien entendu que non !",
@@ -129,6 +145,7 @@
     },
     {
         "question": "Est-ce que les éoliennes soutirent sur le réseau quand elles ne produisent pas ?",
+        "options": ["Oui", "Non", "Autres"],
         "reponse": "Non",
         "informations_supplementaires": {
             "en_bref": "Non.",
@@ -137,6 +154,7 @@
     },
     {
         "question": "Y a-t-il assez de vent en France pour que l’énergie éolienne soit efficace ?",
+        "options": ["Oui", "Non", "Autres"],
         "reponse": "Oui",
         "informations_supplementaires": {
             "en_bref": "Oui.",
@@ -145,6 +163,7 @@
     },
     {
         "question": "Est-ce vrai que les éoliennes fonctionnent seulement 20% du temps ?",
+        "options": ["Oui", "Non", "Autres"],
         "reponse": "Autres",
         "informations_supplementaires": {
             "en_bref": "Ce n’est pas si simple.",
@@ -153,6 +172,7 @@
     },
     {
         "question": "Est-ce que les citoyens sont consultés sur les projets éoliens ?",
+        "options": ["Oui", "Non", "Autres"],
         "reponse": "Oui",
         "informations_supplementaires": {
             "en_bref": "Oui.",
@@ -161,6 +181,7 @@
     },
     {
         "question": "Est-ce que les éoliennes détruisent la biodiversité notamment les oiseaux et chauves-souris ?",
+        "options": ["Oui", "Non", "Autres"],
         "reponse": "Oui",
         "informations_supplementaires": {
             "en_bref": "Oui.",
@@ -169,6 +190,7 @@
     },
     {
         "question": "Est-ce que les éoliennes produisent un bruit insupportable pour les riverains ?",
+        "options": ["Oui", "Non", "Autres"],
         "reponse": "Autres",
         "informations_supplementaires": {
             "en_bref": "Non.",
@@ -177,6 +199,7 @@
     },
     {
         "question": "Est-ce que les éoliennes sont construites trop près des habitations ?",
+        "options": ["Oui", "Non", "Autres"],
         "reponse": "Non",
         "informations_supplementaires": {
             "en_bref": "Non.",
@@ -185,6 +208,7 @@
     },
     {
         "question": "Est-ce que les éoliennes rapportent de l’argent aux communes ?",
+        "options": ["Oui", "Non", "Autres"],
         "reponse": "Oui",
         "informations_supplementaires": {
             "en_bref": "Oui.",
@@ -193,6 +217,7 @@
     },
     {
         "question": "Est-ce que l’investissement dans l’éolien est réservé aux gros investisseurs ?",
+        "options": ["Oui", "Non", "Autres"],
         "reponse": "Non",
         "informations_supplementaires": {
             "en_bref": "Non.",
@@ -201,6 +226,7 @@
     },
     {
         "question": "Est-ce que mon habitation ou mon terrain perd de la valeur s’il est à proximité d’un parc éolien ?",
+        "options": ["Oui", "Non", "Autres"],
         "reponse": "Autres",
         "informations_supplementaires": {
             "en_bref": "Des études ont démontré globalement un impact faible voire inexistant sur les prix de l’immobilier dû à la présence d’éoliennes.",
